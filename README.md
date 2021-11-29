@@ -1,4 +1,4 @@
-### Hello employers, fellow developers, or curious programmers! 👋
+### Hello employers, fellow students, or curious programmers! 👋
 
 I created this github page to document my code in the event my physical hardrives fail, my student
 account closes, or I do something silly. I do not currently have all of my coursework available, but I am 
