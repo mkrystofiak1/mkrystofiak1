@@ -13,7 +13,7 @@ In terms of jobs, I am currently interested in:
 - Anything space!
 - Anything that may be interesting, fun, or enlightening!
 
-It may be nice to be remote, however I am willing to kickstart my proffesional career by any means necessary. I do have 
+It may be nice to be remote, however I am willing to kickstart my profesional career by any means necessary. I do have 
 three dogs, and my fiance may not be super happy to have me gone... She'll be fine..
 
 #### Coursework Uploaded:
