@@ -13,6 +13,9 @@ In terms of jobs, I am currently interested in:
 - Anything space!
 - Anything that may be interesting, fun, or enlightening!
 
+It may be nice to be remote, however I am willing to kickstart my proffesional career by any means necessary. I do have 
+three dogs, and my fiance may not be super happy to have me gone... She'll be fine..
+
 #### Coursework Uploaded:
 - COSC320 - Advanced Data Structures and Algorithm Analysis
 - COSC420Project2 - High Performance Computing Project 2, forked from fellow contributor, Lens Desrouleaux with Olivia Rourke
