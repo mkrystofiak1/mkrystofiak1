@@ -1,6 +1,6 @@
 ### Hello employers, fellow developers, or curious programmers! 👋
 
-I created this github page to document my code in the event my physical harddrives fail, my student
+I created this github page to document my code in the event my physical hardrives fail, my student
 account closes, or I do something silly. I do not currently have all of my coursework available, but I am 
 working on it!
 
@@ -18,7 +18,7 @@ working on it!
 - COSC420 - High Performance Computing
 ##### Mathematics:
 - MATH310 - Calculus 3 (Multivariable Calculus)
-- Maybe MATH441/MATH442 - Abstract Algebra 1/2 (contains a lot of images)
+- MATH441/MATH442 - Abstract Algebra 1/2 (maybe?.. contains a lot of images)
 - MATH451 - Analysis 1 Final Portfolio
 - MATH/COSC482 - Computer Graphics
 - MATH490 - Prediction Methods
@@ -33,14 +33,3 @@ working on it!
 - MATH 311 - Differential Equations
 - MATH 447 - Cryptography
 - Cyber Security - [Penetration Testing](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
