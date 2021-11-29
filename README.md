@@ -4,6 +4,15 @@ I created this github page to document my code in the event my physical hardrive
 account closes, or I do something silly. I do not currently have all of my coursework available, but I am 
 working on it!
 
+In terms of jobs, I am currently interested in:
+- Software Engineering
+- Data Science/Machine Learning Engineering/Research
+- Aerospace Engineering
+- Cyber Security/Ethical Hacking
+- Financial Modeling
+- Anything space!
+- Anything that may be interesting, fun, or enlightening!
+
 #### Coursework Uploaded:
 - COSC320 - Advanced Data Structures and Algorithm Analysis
 - COSC420Project2 - High Performance Computing Project 2, forked from fellow contributor, Lens Desrouleaux with Olivia Rourke
