@@ -45,3 +45,20 @@ three dogs, and my fiance may not be super happy to have me gone... She'll be fi
 - MATH 311 - Differential Equations
 - MATH 447 - Cryptography
 - Cyber Security - [Penetration Testing](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student)
+
+### Past Coursework:
+#### Math:
+- MATH201/202 - Calculus 1/2
+- MATH210 - Discrete Math
+- MATH216 - Statistics
+- MATH306 - Linear Algebra
+- MATH310 - Calculus 3
+- MATH441/442 - Abstract Algebra 1/2
+- MATH451 - Analysis 1
+- MATH490 - Spacetime Geometry
+#### Computer Science:
+- COSC117 - Programming Fundamentals
+- COSC120/220 - Computer Science 1/2
+- COSC250 - Microcomputer Organization
+- COSC320 - Advanced Data Structures and Algorithm Analysis
+- COSC350 - Systems Software
