@@ -13,13 +13,6 @@ In terms of jobs, I am currently interested in:
 ##### Computer Science:
 - COSC420 - High Performance Computing
 
-##### Mathematics:
-- MATH310 - Calculus 3 (Multivariable Calculus)
-- MATH441/MATH442 - Abstract Algebra 1/2 (maybe?.. contains a lot of images)
-- MATH451 - Analysis 1 Final Portfolio
-- MATH/COSC482 - Computer Graphics
-- MATH490 - Prediction Methods
-
 ### Fall 2021 Coursework:
 - COSC311 - Introduction to Data Visualization and Interpretation
 - COSC420 - High Performance Computing
