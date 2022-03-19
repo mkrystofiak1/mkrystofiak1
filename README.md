@@ -11,7 +11,11 @@ In terms of jobs, I am currently interested in:
 
 #### Coursework to Upload:
 ##### Computer Science:
-- COSC420 - High Performance Computing
+- Computer Graphics
+- Differential Equations
+- Cryptography
+- Stock Analysis
+- Bank Analysis
 
 ### Fall 2021 Coursework:
 - COSC311 - Introduction to Data Visualization and Interpretation
